@@ -1,5 +1,6 @@
 # Netflix-Dataset-Dashboard
 1. PROJECT TITLE
+   
    Exploring Global Entertainment Trends on Netflix
    
 3. PROJECT DESCRIPTION AND PURPOSE   

@@ -54,7 +54,7 @@ Dynamic Filters & Slicers: For content type, country, release year, and ratings
 
 Clean, Interactive Design: Suitable for both business users and casual viewers
 
-7. DEMO SCREENSHOT:- 
+7. DEMO SCREENSHOT:- https://github.com/Raman-coder-alt/Netflix-Dataset-Dashboard/blob/main/Netflix%20Data%20Analysis.png
 
 
 
